@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+PyPDF2
+pymupdf
+chromadb
+unstructured
+openai
+tiktoken
+faiss-cpu
+streamlit
+watchdog
+pypdf
+dotenv
+urllib3==1.26.7
